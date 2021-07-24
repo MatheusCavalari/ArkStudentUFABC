@@ -114,6 +114,10 @@ public class bola : MonoBehaviour
                 reprovadoImage.enabled = true;
                 gManagerScript.vidas += 1;
                 Destroy(gameObject);
+                if (Input.GetKey(KeyCode.R))
+                {
+                    Application.LoadLevel("Cena1");
+                }
             }
         }
     }
