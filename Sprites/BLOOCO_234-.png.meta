@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 7c7c3216990dc524996a1dcad87cebfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 285723995845128353
+    second: BLOOCO_234-_0
+  - first:
+      213: -4499967801367452428
+    second: BLOOCO_234-_1
+  - first:
+      213: 5399094157394906989
+    second: BLOOCO_234-_2
+  - first:
+      213: 2174277037142819877
+    second: BLOOCO_234-_3
+  - first:
+      213: -5753455336953147459
+    second: BLOOCO_234-_4
+  - first:
+      213: -1075795097880186448
+    second: BLOOCO_234-_5
+  - first:
+      213: 6683500500972980257
+    second: BLOOCO_234-_6
+  - first:
+      213: 8476785624176868967
+    second: BLOOCO_234-_7
+  - first:
+      213: -1608846571389791069
+    second: BLOOCO_234-_8
+  - first:
+      213: 2509412655161522802
+    second: BLOOCO_234-_9
+  - first:
+      213: -3037118073817411950
+    second: BLOOCO_234-_10
+  - first:
+      213: 665555367697102993
+    second: BLOOCO_234-_11
+  - first:
+      213: 1567259883547176998
+    second: BLOOCO_234-_12
+  - first:
+      213: -7249089633862238635
+    second: BLOOCO_234-_13
+  - first:
+      213: -6833807364333672951
+    second: BLOOCO_234-_14
+  - first:
+      213: 2207838650953078497
+    second: BLOOCO_234-_15
+  - first:
+      213: 2981786326046711926
+    second: BLOOCO_234-_16
+  - first:
+      213: 8870034426046502635
+    second: BLOOCO_234-_17
+  - first:
+      213: 8003340732966326176
+    second: BLOOCO_234-_18
+  - first:
+      213: -8279779588898516774
+    second: BLOOCO_234-_19
+  - first:
+      213: 3073543355429448867
+    second: BLOOCO_234-_20
+  - first:
+      213: 968790049464092799
+    second: BLOOCO_234-_21
+  - first:
+      213: 4556185917323999210
+    second: BLOOCO_234-_22
+  - first:
+      213: 584998223564694803
+    second: BLOOCO_234-_23
+  - first:
+      213: -2277130270621608766
+    second: BLOOCO_234-_24
+  - first:
+      213: -9114058780665124731
+    second: BLOOCO_234-_25
+  - first:
+      213: 1261257509681315362
+    second: BLOOCO_234-_26
+  - first:
+      213: -2093460580714831898
+    second: BLOOCO_234-_27
+  - first:
+      213: 8991245662271198268
+    second: BLOOCO_234-_28
+  - first:
+      213: 8473355238130774511
+    second: BLOOCO_234-_29
+  - first:
+      213: 2478141125040082912
+    second: BLOOCO_234-_30
+  - first:
+      213: 8268646141186986465
+    second: BLOOCO_234-_31
+  - first:
+      213: 7982247270372605031
+    second: BLOOCO_234-_32
+  - first:
+      213: 3972832925081684786
+    second: BLOOCO_234-_33
+  - first:
+      213: 5165292804918186737
+    second: BLOOCO_234-_34
+  - first:
+      213: 1333618390904251838
+    second: BLOOCO_234-_35
+  - first:
+      213: -4982490424631184444
+    second: BLOOCO_234-_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLOOCO_234-_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 381
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0772cd57817f300800000000000000
+      internalID: 285723995845128353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 382
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f42cc26027ec81c0800000000000000
+      internalID: -4499967801367452428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 382
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0960d78f6dea40800000000000000
+      internalID: 5399094157394906989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 387
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524cf2a02759c2e10800000000000000
+      internalID: 2174277037142819877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 387
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf05d9aade9720b0800000000000000
+      internalID: -5753455336953147459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 335
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1bebbee020211f0800000000000000
+      internalID: -1075795097880186448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 345
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128c3a08b4090cc50800000000000000
+      internalID: 6683500500972980257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 346
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e333efc9793a570800000000000000
+      internalID: 8476785624176868967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 347
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d43e319a3ca9e0800000000000000
+      internalID: -1608846571389791069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 346
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab5c1b38933d220800000000000000
+      internalID: 2509412655161522802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 307
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec135043df9d5d0800000000000000
+      internalID: -3037118073817411950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 309
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b0f5a4178c3900800000000000000
+      internalID: 665555367697102993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 309
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620bc857f8600c510800000000000000
+      internalID: 1567259883547176998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 304
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebca4a26f066b90800000000000000
+      internalID: -7249089633862238635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 241
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066171c8607921a0800000000000000
+      internalID: -6833807364333672951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 242
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69f6f2e81d3ae10800000000000000
+      internalID: 2207838650953078497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 242
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670a1288dde616920800000000000000
+      internalID: 2981786326046711926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 246
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6dcf5a051b81b70800000000000000
+      internalID: 8870034426046502635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 246
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4fdc3ef3911f60800000000000000
+      internalID: 8003340732966326176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 205
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09c210550581d80800000000000000
+      internalID: -8279779588898516774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 206
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac622eb56b67aa20800000000000000
+      internalID: 3073543355429448867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 206
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788d38ca65d17d00800000000000000
+      internalID: 968790049464092799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 206
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7fbbcb3f2da3f30800000000000000
+      internalID: 4556185917323999210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 176
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315eecde8c45e1800800000000000000
+      internalID: 584998223564694803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 167
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c45f4865120660e0800000000000000
+      internalID: -2277130270621608766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 168
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ec6cc3db548180800000000000000
+      internalID: -9114058780665124731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 168
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e39dac503e08110800000000000000
+      internalID: 1261257509681315362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 102
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef953781b882f2e0800000000000000
+      internalID: -2093460580714831898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3452fbca4257cc70800000000000000
+      internalID: 8991245662271198268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 103
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1fa7002b7679570800000000000000
+      internalID: 8473355238130774511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 66
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0d453930246220800000000000000
+      internalID: 2478141125040082912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1dad23bd120c270800000000000000
+      internalID: 8268646141186986465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 68
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf3e3c993a6ce60800000000000000
+      internalID: 7982247270372605031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_33
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 67
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b48731f76522730800000000000000
+      internalID: 3972832925081684786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 28
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2970e607ecea740800000000000000
+      internalID: 5165292804918186737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 30
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5a6c75cd6f18210800000000000000
+      internalID: 1333618390904251838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOOCO_234-_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 29
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b21f6b53aadab0800000000000000
+      internalID: -4982490424631184444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
